@@ -5,6 +5,8 @@ Highlights:
 
 📹 1-on-1 and Group Video Calls with Screen Sharing & Recording
 
+🎨 32 UI Themes
+
 🔐 JWT Authentication & Protected Routes
 
 🌍 Language Exchange Platform with 32 Unique UI Themes
