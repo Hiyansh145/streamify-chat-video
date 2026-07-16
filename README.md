@@ -5,8 +5,6 @@ Highlights:
 
 📹 1-on-1 and Group Video Calls with Screen Sharing & Recording
 
-🎨 32 UI Themes
-
 🔐 JWT Authentication & Protected Routes
 
 🌍 Language Exchange Platform with 32 Unique UI Themes
@@ -15,10 +13,4 @@ Highlights:
 
 🧠 Global State Management with Zustand
 
-🚨 Error Handling (Frontend & Backend)
-
-🚀 Deployment
-
 🎯 Built with Scalable Technologies like Stream
-
-⏳ And much more!
